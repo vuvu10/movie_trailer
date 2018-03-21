@@ -19,8 +19,8 @@ This project includes the following files.
 *media.py this file includes the movie class in python.
 *entertainment_center.py: This file is the list of the movies in the projects.
 
-##Installation
+#Installation
 
-##Usage
+#Usage
 ````
 First of all, download the projects zip file in computer. You can also clone this repository in your computer. 
