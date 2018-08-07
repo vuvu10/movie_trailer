@@ -3,7 +3,7 @@ Movie Trailer server side storing a list of my favorite movies. This is part of 
 
 
 # Usage of the project.
-In order to view the movie trailer, it is necessary the following.
+In order to view the movie trailer, it is necessary to do the following.
 1. Firstly: install python.
 2. Secondly: download the repository file or open it in your desktop;
 3. Thirdly: or clone the repository in computer.
