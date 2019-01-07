@@ -2,6 +2,8 @@
 Movie Trailer server side storing a list of my favorite movies. This is part of Udacity' Full Stack Nano Degree program. By clicking on the movie poster & user should be able to play its player.
 
 
+
+
 # Usage of the project.
 In order to view the movie trailer, it is necessary to do the following.
 1. Firstly: install python.
@@ -14,6 +16,10 @@ In order to view the movie trailer, it is necessary to do the following.
 4. README.md
 
 # Run the project in your system.
-Go to the project directory & run python entertainment_center.py
+1. Download the project.
+2. Or clone to your local environment.
+3. Navigate to the directory cd 
+4. Run python entertainment_cente.py
+
 
 
