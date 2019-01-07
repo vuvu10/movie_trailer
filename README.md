@@ -19,7 +19,7 @@ In order to view the movie trailer, it is necessary to do the following.
 1. Download the project.
 2. Or clone to your local environment.
 3. Navigate to the directory cd 
-4. Run python entertainment_cente.py
+4. Run python entertainment_center.py
 
 
 
