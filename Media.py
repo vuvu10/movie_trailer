@@ -5,7 +5,7 @@ class movies():
 	"""Below is the class for the movies"""
 
 	   def __init__(self, movie_title, movie_description,
-	    			movie_poster_image, trailer_youtube):
+	    		movie_poster_image, trailer_youtube):
 	       self.title = movie_title
 	       self.description = movie_description
 	       self.poster_image_url = movie_poster_image
